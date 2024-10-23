@@ -1,6 +1,6 @@
 # Hi there, I'm Bikram Keshari 👋
 
-Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Automation Engineer** with expertise in **Cypress** for end-to-end testing, JavaScript/TypeScript, and building efficient test automation frameworks. I enjoy solving complex problems and working on projects that make an impact.
+Welcome to my GitHub profile! I'm a passionate **Automation Engineer** with expertise in **Cypress** for end-to-end testing, JavaScript/TypeScript, and building efficient test automation frameworks. I enjoy solving complex problems and working on projects that make an impact.
 
 ## 🚀 Skills and Technologies
 
