@@ -5,7 +5,6 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Au
 ## 🚀 Skills and Technologies
 
 - **Languages**: JavaScript, TypeScript, Python
-- **Frontend**: React, HTML5, CSS3, SASS
 - **Backend**: Node.js, Express.js, REST APIs
 - **Testing & Automation**: Cypress, Mocha, Jest, Selenium
 - **DevOps**: Git, GitHub Actions, CI/CD
