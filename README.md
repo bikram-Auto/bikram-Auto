@@ -4,18 +4,18 @@ Welcome to my GitHub profile! I'm a passionate **Full Stack Developer** and **Au
 
 ## 🚀 Skills and Technologies
 
-- **Languages**: JavaScript, TypeScript, Python
-- **Backend**: Node.js, Express.js, REST APIs
+- **Languages**: Java, JavaScript, TypeScript, Python
+- **Backend**: Node.js, Nest.js, REST APIs
 - **Testing & Automation**: Cypress, Mocha, Jest, Selenium
 - **DevOps**: Git, GitHub Actions, CI/CD
-- **Tools**: Docker, Postman, JIRA
-- **Other**: Mac OS, Linux, JSON, CSV
+- **Tools**: Docker, Postman, JMeter
+- **Other**: Mac OS, Windows, Linux, JSON, CSV
 
 ## 🧑‍💻 Current Work
 
 - **End-to-End Testing**: Developing and maintaining automated test suites with **Cypress**.
 - **EMR Web Application**: Working on test automation for an electronic medical records (EMR) platform.
-- **Integration with JSON/CSV Data**: Using data-driven tests to dynamically interact with applications.
+- **Integration with Kafka/JSON/CSV Data**: Using data-driven tests to dynamically interact with applications.
 - **Custom Utility Functions**: Creating reusable Cypress functions to interact with complex UIs and modal structures.
 
 ## 📂 Noteworthy Projects
